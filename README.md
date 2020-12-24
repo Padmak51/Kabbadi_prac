@@ -1,2 +1,2 @@
-#Multiplayer Kabadi
-Kabadi
+# Kabaddi_prac
+Kabaddi: a fun game
